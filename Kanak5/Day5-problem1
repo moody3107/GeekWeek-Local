@@ -1,4 +1,4 @@
-1.	Import java.util.Arrays;
+	Import java.util.Arrays;
 	
 	class Date implements Comparable {
 	    private int day, month;
